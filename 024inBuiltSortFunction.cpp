@@ -65,9 +65,5 @@ int main(){
     cout << endl;
     // 12 16 32 65 74 83
 
-
-
-
-
     return 0;
 }
